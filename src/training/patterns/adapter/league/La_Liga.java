@@ -1,4 +1,4 @@
-package Teams;
+package training.patterns.adapter.league;
 
 public interface La_Liga {
     public void Primera();

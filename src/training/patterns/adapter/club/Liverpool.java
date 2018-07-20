@@ -1,4 +1,6 @@
-package Teams;
+package training.patterns.adapter.club;
+
+import training.patterns.adapter.league.English_League;
 
 public class Liverpool implements English_League {
     private String name;

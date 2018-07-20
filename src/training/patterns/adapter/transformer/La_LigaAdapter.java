@@ -1,4 +1,7 @@
-package Teams;
+package training.patterns.adapter.transformer;
+
+import training.patterns.adapter.league.English_League;
+import training.patterns.adapter.league.La_Liga;
 
 public class La_LigaAdapter implements English_League {
     private La_Liga la_liga;

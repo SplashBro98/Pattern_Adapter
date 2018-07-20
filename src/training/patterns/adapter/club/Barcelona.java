@@ -1,4 +1,6 @@
-package Teams;
+package training.patterns.adapter.club;
+
+import training.patterns.adapter.league.La_Liga;
 
 public class Barcelona implements La_Liga {
     private String name;

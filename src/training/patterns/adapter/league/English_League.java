@@ -1,4 +1,4 @@
-package Teams;
+package training.patterns.adapter.league;
 
 public interface English_League {
     public void Fa_Cup();

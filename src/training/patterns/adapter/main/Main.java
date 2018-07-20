@@ -1,4 +1,10 @@
-package Teams;
+package training.patterns.adapter.main;
+
+import training.patterns.adapter.transformer.La_LigaAdapter;
+import training.patterns.adapter.club.Barcelona;
+import training.patterns.adapter.club.Chelsea;
+import training.patterns.adapter.club.Liverpool;
+import training.patterns.adapter.league.English_League;
 
 public class Main {
 
